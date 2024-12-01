@@ -1,0 +1,12 @@
+{
+    "name": "notwporg/wpnaught",
+    "description": "WP⁰",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Duane Storey",
+            "email": "duanestorey@gmail.com"
+        }
+    ],
+    "require": {}
+}

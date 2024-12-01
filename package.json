@@ -1,0 +1,22 @@
+{
+  "name": "wpnaught",
+  "version": "1.0.0",
+  "description": "WP⁰",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notwporg/wpnaught.git"
+  },
+  "author": "Duane Storey",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/notwporg/wpnaught/issues"
+  },
+  "homepage": "https://github.com/notwporg/wpnaught#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.49"
+  }
+}
